@@ -1,0 +1,48 @@
+nav{
+    background-color: #fe346e;
+}
+
+a{
+    margin:5px;
+    color: grey;
+    padding-right: 0;
+    padding-left: 0;
+   
+}
+
+a:hover{
+   color:#fe346e;
+   
+}
+
+.div1{
+    width:100vw;
+    /* background-color: black; */
+}
+
+.ads{
+    background-color: #fe346e;
+    width: 55%;
+    
+}
+
+.footer1{
+    background-color: #fe346e;
+    height: 25vh;
+}
+.footer2{
+    background-color:black;
+  
+}
+
+.row{
+    margin-right: 0;
+}
+.progress-bar{
+    background-color: #fe346e; 
+}
+
+.date{
+    color: #fe346e;
+}
+
